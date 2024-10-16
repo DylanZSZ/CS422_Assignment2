@@ -1,0 +1,7 @@
+https://kframework.org/k-distribution/k-tutorial/1_basic/10_strings/#exercises
+ - ./lesson10-ex1.k
+ - Command:
+		```bash
+			kompile lesson10-ex1.k
+			krun -cPGM='extractFirstWords("I am Dylan, like many people, CS422 is my favorite course.")' --definition lesson10-ex1-kompiled
+		```

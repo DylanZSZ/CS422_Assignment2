@@ -1,0 +1,1 @@
+inj{SortExp{}, SortKItem{}}(Lbl'UndsStarUndsUnds'EX3'Unds'2'Unds'Exp'Unds'Exp'Unds'Exp{}(Lbl'LParUndsRParUnds'EX3'Unds'2'Unds'Exp'Unds'Exp{}(Lbl'UndsPlusUndsUnds'EX3'Unds'2'Unds'Exp'Unds'Exp'Unds'Exp{}(inj{SortInt{}, SortExp{}}(\dv{SortInt{}}("3")),inj{SortInt{}, SortExp{}}(\dv{SortInt{}}("4")))),inj{SortInt{}, SortExp{}}(\dv{SortInt{}}("5"))))

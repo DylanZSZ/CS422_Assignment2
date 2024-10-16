@@ -1,0 +1,5 @@
+The issue occurs due to the block using the exclude selector. To fix:
+
+```bash
+kompile README.md --main-module LESSON-03-D --md-selector "k & (! exclude)"
+```

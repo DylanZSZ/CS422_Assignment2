@@ -1,0 +1,6 @@
+https://kframework.org/k-distribution/k-tutorial/1_basic/15_configurations/#exercise-1
+ - ./lesson16-ex1-a.k
+ - ./lesson16-ex1-b.k
+ - test: ./test
+https://kframework.org/k-distribution/k-tutorial/1_basic/15_configurations/#exercises
+- ./lesson16-ex2.k
